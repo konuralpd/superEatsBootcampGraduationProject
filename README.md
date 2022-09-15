@@ -14,7 +14,7 @@ https://user-images.githubusercontent.com/98783085/190426906-3afca100-fb39-419c-
 ## Used Technologies
 
 * VIPER Pattern
-* Web Service
+* RestAPI
 * Alamofire  
 * Firebase
 * Kingfisher
