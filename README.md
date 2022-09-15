@@ -15,7 +15,7 @@ https://user-images.githubusercontent.com/98783085/190426906-3afca100-fb39-419c-
 
 * VIPER Pattern
 * Web Service
-* Alomafire  
+* Alamofire  
 * Firebase
 * Kingfisher
 * UIKit
